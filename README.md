@@ -1,5 +1,5 @@
 # Maerklin-Weichendecoder-fuer-2-Reed-Relais
-Märklin Einzeldecoder für Weichenstelung mit 2 Reed-Relais
+Märklin Einzeldecoder für Weichenstellung (H0, etc.) mit 2 Reed-Relais
 
 Siehe => Anschluss-Schema.png
 
